@@ -1,0 +1,17 @@
+{
+  "author": "Hua",
+  "version": "0.1.1",
+  "description": "\u7F51\u604B\u9AD8\u624BpvpACR",
+  "supportedJobs": [
+    {
+      "job": "PLD",
+      "contentScope": "PvP"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.9.3",
+  "downloadUrl": "https://www",
+  "sourceRepositoryUrl": "",
+  "sponsorUrl": "",
+  "sha256": "f0c4c2ad9ff29a840428f090ccf1f542c65e3296d699c54657dd62dbd8ebdc3f"
+}
