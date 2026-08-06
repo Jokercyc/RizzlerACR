@@ -1,7 +1,7 @@
 {
   "author": "Hua",
-  "version": "0.1.2",
-  "description": "\u7F51\u604B\u9AD8\u624B\u9A91\u58EBpvp ACR",
+  "version": "0.1.3",
+  "description": "\u7F51\u604B\u9AD8\u624Bpvp ACR \u76EE\u524D\u652F\u6301\u9A91\u58EB",
   "supportedJobs": [
     {
       "job": "PLD",
@@ -13,5 +13,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Jokercyc/RizzlerACR/refs/heads/main/Hua.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "13e6999f2ceb6463d65794b3a3243f43ab5e5d20e261feac7770f902a10871ec"
+  "sha256": "db60b0789ea29d6a08a5b5aa3dbdbf2fe04679e4327ca5a462331d8c9b2539ee"
 }
