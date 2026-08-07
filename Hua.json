@@ -1,10 +1,14 @@
 {
   "author": "Hua",
-  "version": "0.1.3",
-  "description": "\u7F51\u604B\u9AD8\u624Bpvp ACR \u76EE\u524D\u652F\u6301\u9A91\u58EB",
+  "version": "0.1.5",
+  "description": "\u7F51\u604B\u9AD8\u624BpvpACR      CPDD\uFF0C\u53EA\u4FDD\u4F60\u4E00\u4E2A",
   "supportedJobs": [
     {
       "job": "PLD",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "GNB",
       "contentScope": "PvP"
     }
   ],
@@ -13,5 +17,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Jokercyc/RizzlerACR/refs/heads/main/Hua.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "db60b0789ea29d6a08a5b5aa3dbdbf2fe04679e4327ca5a462331d8c9b2539ee"
+  "sha256": "da9dffccd57500f2b4fcca6408a95e0ad094f2cd19fc7f6241ef13ec5a324809"
 }
